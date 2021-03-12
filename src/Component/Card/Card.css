@@ -1,0 +1,39 @@
+.card-container {
+  background-color: rgb(16, 103, 216);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-left: 200px;
+}
+.Cards {
+  margin-top: 100px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding-left: 50px;
+  align-items: flex-start;
+  height: 200px;
+  width: 400px;
+  margin: 20px 20px;
+  position: relative;
+  border-bottom: solid rgb(16, 103, 216);
+}
+.button {
+  background-color: blue;
+  color: white;
+  width: 180px;
+}
+.status {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  padding-left: 40px;
+}
+.card-parent {
+  display: flex;
+  justify-content: space-around;
+  align-content: space-around;
+  align-items: c;
+}
